@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    box-sizing: content-box;
+    background-color: #e06666;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    float: right;
+    width: 75%;
+    height: 79%;
+    padding: 2vh 1vw 1vh 1vw;
+}
